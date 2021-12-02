@@ -1,10 +1,4 @@
 """
-Daisuke & Kunyu Li (Leo)
-CS111, W20
-By Leyla Oesper
-Final Project
-Deadline: March, 16th, 2020
-
 This program runs the game "Connect 4."
 """
 
